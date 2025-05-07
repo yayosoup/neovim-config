@@ -19,4 +19,4 @@ vim.cmd [[
   highlight SignColumn guibg=NONE ctermbg=NONE
   highlight VertSplit guibg=NONE ctermbg=NONE
 ]]
--- test
+-- worked
